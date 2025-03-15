@@ -50,6 +50,10 @@ Apart from the pcb and optionally a case you need:
 
 - 1x USB Connector C-Type, 12 pin/16pin
 
+- 8 M2 heat inserts
+
+- 8 M2 srews (8mm)
+
 ### firmware
 
 Config for FAK can be found [here](https://github.com/weteor/fak-config/tree/main/keyboards/qazipad)). Please also see [FAK-Firmware site](https://github.com/semickolon/fak) for more information
