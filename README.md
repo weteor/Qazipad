@@ -2,7 +2,7 @@
 
 unistagger qaz-like w/ numpad
 
-![top](.\img\qazipad.jpg)
+![top](img/qazipad.jpg)
 
 ## Features
 
@@ -18,11 +18,11 @@ unistagger qaz-like w/ numpad
 
 current version in repo (V2):
 
-![top](.\img\kleV2.png)
+![top](img/kleV2.png)
 
 V1:
 
-![top](.\img\kle.png)
+![top](img/kle.png)
 
 not all stab option are tested with the plate. They should work, but maybe there are cases which require some work on the plate.
 
